@@ -6,6 +6,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=180&section=header&text=d3adpulse&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
+<p align="center">
+  <a href="https://t.me/fovoritdev">
+    <img src="https://img.shields.io/badge/Telegram-fovoritdev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 🧑‍💻 Обо мне
@@ -78,16 +84,6 @@
 - 🗄️ MySQL через HikariCP
 
 **Стек:** `Java 21` `Paper API` `Gradle` `PlayerPoints` `MySQL` `HikariCP`
-
----
-
-## 📢 Мой Telegram-канал
-
-<p align="center">
-  <a href="https://t.me/fovoritdev">
-    <img src="https://img.shields.io/badge/Telegram-fovoritdev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
 
 ---
 
