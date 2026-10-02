@@ -15,7 +15,17 @@
 - ☕ Основной язык — **Java** — Minecraft-плагины для Paper/Spigot/Velocity
 - ⚙️ Работаю с **Gradle**, **Maven**, **MySQL**, **HikariCP**
 - 🚀 Автор **FovoritItems** — RPG-ядра для Paper
-- 📫 Связаться: [Discord] [Telegram]
+- 💀 Девиз: **«dead pulse — but still beating»**
+
+---
+
+## 🧠 Языки, которые использую
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
 
 ---
 
@@ -56,16 +66,28 @@
 
 **Возможности:**
 
-- ⚔️ Кастомные предметы со способностями
-- 👹 Кастомные мобы
-- 🐺 Питомцы с реальным ИИ (Pathfinder API)
-- 🐴 Маунты с ускорением
-- 🏛️ Аукцион между игроками
-- 📈 Уровни предметов
-- 📊 Статистика игроков
+- ⚔️ Кастомные предметы со способностями: поджог, взрыв, молния, огненный шар
+- 👹 Кастомные мобы с настройкой HP, урона, экипировки и дропа
+- 🐺 Питомцы с реальным ИИ (Pathfinder API): следуют, обходят препятствия, защищают хозяина
+- 🐴 Маунты с ускорением и увеличенным здоровьем
+- 🏛️ Аукцион между игроками за поинты с GUI-меню
+- 📈 Уровни предметов: прокачка за убийства и копание до 10 уровня
+- 📊 Статистика игроков: покупки, крафты, траты
+- 🎨 Меню магазина с настройкой через `menu.yml`
+- 🔨 Рецепты крафта кастомных предметов
 - 🗄️ MySQL через HikariCP
 
 **Стек:** `Java 21` `Paper API` `Gradle` `PlayerPoints` `MySQL` `HikariCP`
+
+---
+
+## 📢 Мой Telegram-канал
+
+<p align="center">
+  <a href="https://t.me/fovoritdev">
+    <img src="https://img.shields.io/badge/Telegram-fovoritdev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
