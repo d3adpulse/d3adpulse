@@ -52,8 +52,8 @@
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d3adpulse&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0055&icon_color=FF0055&text_color=FFFFFF&border_color=FF0055&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3adpulse&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0055&text_color=FFFFFF&border_color=FF0055&langs_count=10&card_width=400" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=d3adpulse&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0055&icon_color=FF0055&text_color=FFFFFF&border_color=FF0055&include_all_commits=true&count_private=true&cache_seconds=14400" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3adpulse&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0055&text_color=FFFFFF&border_color=FF0055&langs_count=10&card_width=400&cache_seconds=14400" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
