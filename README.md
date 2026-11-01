@@ -1,3 +1,8 @@
+Похоже, раскладка клавиатуры не переключилась! Набранный текст — **«дай полный»**.
+
+Вот весь обновлённый файл **README.md** с исправленными блоками карточек GitHub:
+
+```html
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=FF0055&center=true&vCenter=true&width=900&height=110&lines=Python+Developer;Kotlin+%2F+Android+Developer;Java+%2F+Minecraft+Plugin+Developer;Always+learning+something+new" alt="d3adpulse — Python, Kotlin, Java" />
 </h1>
@@ -52,8 +57,8 @@
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d3adpulse&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0055&icon_color=FF0055&text_color=FFFFFF&border_color=FF0055&include_all_commits=true&count_private=true&cache_seconds=14400" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3adpulse&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0055&text_color=FFFFFF&border_color=FF0055&langs_count=10&card_width=400&cache_seconds=14400" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=d3adpulse&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0055&icon_color=FF0055&text_color=FFFFFF&border_color=FF0055&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=d3adpulse&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0055&text_color=FFFFFF&border_color=FF0055&langs_count=10&card_width=400" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -128,7 +133,7 @@
   </a>
 </p>
 
-Открыт к проектам, предложениям и interesting задачам.
+Открыт к проектам, предложениям и интересным задачам.
 
 ---
 
@@ -140,6 +145,4 @@
   <img src="https://komarev.com/ghpvc/?username=d3adpulse&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B&color=FF0055&style=flat" alt="Количество просмотров профиля" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=100&section=footer" alt="" height="0" width="0" />
-</p>
+```
