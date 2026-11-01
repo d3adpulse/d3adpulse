@@ -1,8 +1,3 @@
-Похоже, раскладка клавиатуры не переключилась! Набранный текст — **«дай полный»**.
-
-Вот весь обновлённый файл **README.md** с исправленными блоками карточек GitHub:
-
-```html
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=FF0055&center=true&vCenter=true&width=900&height=110&lines=Python+Developer;Kotlin+%2F+Android+Developer;Java+%2F+Minecraft+Plugin+Developer;Always+learning+something+new" alt="d3adpulse — Python, Kotlin, Java" />
 </h1>
@@ -144,5 +139,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=d3adpulse&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B&color=FF0055&style=flat" alt="Количество просмотров профиля" />
 </p>
-
-```
